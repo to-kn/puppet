@@ -9,7 +9,7 @@ class panopta::package {
     release  => 'stable',
     repos    => 'main',
     key      => {
-      'id'     => '1C4698D2DE92D6EE8A769526B7F965468997217A',
+      'id'     => '8F085C1595B9B4C94F0633FF61EE28720129F5F3',
       'source' => 'http://packages.panopta.com/panopta.pub'
     }
   }
